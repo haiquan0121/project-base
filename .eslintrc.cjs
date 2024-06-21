@@ -38,6 +38,7 @@ module.exports = {
 		// '@typescript-eslint/no-unused-vars': 'warn',
 		'no-console': 'error',
 		'import/no-named-as-default-member': 'off',
+		'import/no-unresolved': 'off',
 		'prettier/prettier': [
 			'warn',
 			{
